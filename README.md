@@ -39,9 +39,19 @@ Content-Type: application/json
   }
 }
 ```
+**Info fields**
+```
+'all' - all logistic orders number
+'no_pay' - pending payment logistic orders number
+'is_pay' - the number of logistic orders on the way
+'is_done' - delivered logistic orders number
+```
+
 1. If this screen is visited Api is called.
 2. If Api will be Loading _progressbar_ should be shown
 3. When data will come from Api 
+
+<img width="814" alt="Screenshot 2024-08-29 at 16 32 26" src="https://github.com/user-attachments/assets/fcc34d45-6b12-4cc4-bf63-582b48b60f33">
 
 
 
