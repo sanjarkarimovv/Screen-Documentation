@@ -8,10 +8,6 @@
 ```
 URL: https://www.greatmall.uz/api/logisticsOrder/number
 Method: GET
-Protocol: h2
-Status: Complete
-Response: 200 
-SSL: Yes
 ```
 
 ---------- Request ----------
@@ -43,5 +39,9 @@ Content-Type: application/json
   }
 }
 ```
+1. If this screen is visited Api is called.
+2. If Api will be Loading _progressbar_ should be shown
+3. When data will come from Api 
+
 
 
