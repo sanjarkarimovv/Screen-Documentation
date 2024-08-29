@@ -3,14 +3,16 @@
 ## Logistics Info Screen 
 <img width="376" alt="Screenshot 2024-08-29 at 16 05 40" src="https://github.com/user-attachments/assets/deea402a-1021-409a-ba2d-11cfd05f0446">
 
-**Integrated Api for this Screen**
 
+**Integrated Api for this Screen**
+```
 URL: https://www.greatmall.uz/api/logisticsOrder/number
 Method: GET
 Protocol: h2
 Status: Complete
 Response: 200 
 SSL: Yes
+```
 
 ---------- Request ----------
 
